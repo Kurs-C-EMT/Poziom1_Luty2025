@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ArgumentyMetodyMain": {
+      "commandName": "Project",
+      "commandLineArgs": "jeden dwa trzy hej"
+    }
+  }
+}

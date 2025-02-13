@@ -1,0 +1,63 @@
+# Visual Studio
+.vs/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+bin/
+obj/
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+*.nupkg
+*.snupkg
+
+# NuGet packages
+*.nuget
+packages/
+project.lock.json
+project.assets.json
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.cache
+*.ide
+*.sln.ide
+
+# Rider
+.idea/
+*.iml
+
+# JetBrains ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# ASP.NET-specific files (if applicable)
+appsettings.*.json
+
+# WinForms designer-generated files
+*.Designer.cs
+
+# Misc
+Thumbs.db
+*.bak
+*.swp
+
+# Publish output
+publish/
+
+# Local development secrets
+secrets.json
